@@ -1,4 +1,4 @@
 # hello-world
 PAL Workshop 
 
-I love :tea: :salad:, and :dancer:.
+I love :tea: :apple:, and :dancer:.
