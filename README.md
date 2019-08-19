@@ -1,2 +1,4 @@
 # hello-world
-PAL Workshop
+PAL Workshop 
+
+I love :tea: :salad:, and :dancer:.
